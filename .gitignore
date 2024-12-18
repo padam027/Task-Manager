@@ -1,0 +1,22 @@
+# Node.js dependencies
+client/node_modules/
+server/node_modules/
+
+# Build files
+client/build/
+server/dist/
+
+# Environment files
+client/.env
+server/.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary or backup files
+*.tmp
+*.swp
